@@ -1,71 +1,71 @@
 self.__precacheManifest = [
   {
-    "revision": "d086b3cad6e5220d8244bdd52cb7ccf1",
-    "url": "/portfolio/img/carre-d-amour.d086b3ca.jpg"
+    "revision": "a065454cfea3eaf8ab88ee30771f0dbc",
+    "url": "/portfolio/img/text.a065454c.svg"
   },
   {
-    "revision": "cb749b193561e2a52ea362457222a5be",
+    "revision": "e3f96ebfb3d7e682aea1f434f5386d13",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "377a6ce1913e4fff3b84",
-    "url": "/portfolio/js/app.463249ce.js"
-  },
-  {
-    "revision": "5e64c44e3f4150ca617d",
-    "url": "/portfolio/js/chunk-011dc3e2.74c0b5ab.js"
-  },
-  {
-    "revision": "f957d057251b512ac9d8",
-    "url": "/portfolio/js/chunk-vendors.4fc9a9ba.js"
+    "revision": "1372f57443cd16f6f70a",
+    "url": "/portfolio/js/app.48a90e1a.js"
   },
   {
     "revision": "79ffd7456ce6d5f2d9bd",
     "url": "/portfolio/js/chunk-020624b1.27f59ba0.js"
   },
   {
-    "revision": "61f17c78e8f2ef477ef0",
-    "url": "/portfolio/js/chunk-c6eb6f58.9154bff8.js"
+    "revision": "f957d057251b512ac9d8",
+    "url": "/portfolio/js/chunk-vendors.4fc9a9ba.js"
   },
   {
     "revision": "58fd10c2ebacd556058a",
     "url": "/portfolio/js/chunk-13c70ad4.77f4a688.js"
   },
   {
-    "revision": "f782f249ded3624f87b9",
-    "url": "/portfolio/js/chunk-b760793a.5d7b3a7d.js"
+    "revision": "61f17c78e8f2ef477ef0",
+    "url": "/portfolio/js/chunk-c6eb6f58.9154bff8.js"
   },
   {
     "revision": "3eb382981a3bf150a85a",
     "url": "/portfolio/js/chunk-1bf96c40.b9442e06.js"
   },
   {
-    "revision": "c5e1cd6df5462ab90e54",
-    "url": "/portfolio/js/chunk-5dd12899.271e6cd8.js"
+    "revision": "f782f249ded3624f87b9",
+    "url": "/portfolio/js/chunk-b760793a.5d7b3a7d.js"
   },
   {
     "revision": "91881e21794d983bbfe0",
     "url": "/portfolio/js/chunk-2034e675.eda05b08.js"
   },
   {
-    "revision": "86ca5625389edde6dd46",
-    "url": "/portfolio/js/chunk-2c4c6256.97216403.js"
+    "revision": "6ce0bdf359e757bcaa98",
+    "url": "/portfolio/js/chunk-74acad68.4dc5ef6e.js"
   },
   {
     "revision": "658af8ae0b03dc824a0a",
     "url": "/portfolio/js/chunk-22f604ec.2529a5aa.js"
   },
   {
-    "revision": "449b05af82fbc7e3eea9b99e1d62d7aa",
-    "url": "/portfolio/img/personnalisation-carredamour.449b05af.jpg"
+    "revision": "c5e1cd6df5462ab90e54",
+    "url": "/portfolio/js/chunk-5dd12899.271e6cd8.js"
   },
   {
     "revision": "86ca5625389edde6dd46",
-    "url": "/portfolio/css/chunk-2c4c6256.2e7a7e01.css"
+    "url": "/portfolio/js/chunk-2c4c6256.97216403.js"
+  },
+  {
+    "revision": "eea4b53ab6c352985868f1a794ce6d13",
+    "url": "/portfolio/img/wonderfultime-noir.eea4b53a.jpg"
   },
   {
     "revision": "c5e1cd6df5462ab90e54",
     "url": "/portfolio/css/chunk-5dd12899.3be7649d.css"
+  },
+  {
+    "revision": "6ce0bdf359e757bcaa98",
+    "url": "/portfolio/css/chunk-74acad68.ec201d04.css"
   },
   {
     "revision": "2d601028ac73373426478aefd14173cd",
@@ -112,16 +112,20 @@ self.__precacheManifest = [
     "url": "/portfolio/img/pages-delgaudiogourmet.f2345326.jpg"
   },
   {
+    "revision": "befab8348d66f6088791a9eddcd2077e",
+    "url": "/portfolio/img/email.befab834.svg"
+  },
+  {
     "revision": "2356ea27886a01809985db6d62bd8cf7",
     "url": "/portfolio/img/extrait-votre-plus-beau-marche.2356ea27.jpg"
   },
   {
-    "revision": "a065454cfea3eaf8ab88ee30771f0dbc",
-    "url": "/portfolio/img/text.a065454c.svg"
-  },
-  {
     "revision": "dfacd6d8bdccfa653d551cbebe689393",
     "url": "/portfolio/img/mockup-logotype.dfacd6d8.jpg"
+  },
+  {
+    "revision": "d086b3cad6e5220d8244bdd52cb7ccf1",
+    "url": "/portfolio/img/carre-d-amour.d086b3ca.jpg"
   },
   {
     "revision": "3d251ee58006595c1f9434124f7f7f29",
@@ -144,12 +148,12 @@ self.__precacheManifest = [
     "url": "/portfolio/img/logo-emling.a82b12ab.jpg"
   },
   {
-    "revision": "eea4b53ab6c352985868f1a794ce6d13",
-    "url": "/portfolio/img/wonderfultime-noir.eea4b53a.jpg"
-  },
-  {
     "revision": "d97665c05ad82dcb20d08960a7e916ce",
     "url": "/portfolio/img/wonderfultime.d97665c0.jpg"
+  },
+  {
+    "revision": "449b05af82fbc7e3eea9b99e1d62d7aa",
+    "url": "/portfolio/img/personnalisation-carredamour.449b05af.jpg"
   },
   {
     "revision": "84f2293a0cc2d1d97cea94d02b31ee1f",
@@ -158,10 +162,6 @@ self.__precacheManifest = [
   {
     "revision": "0e7dee3bcbb4225885bf648350830abe",
     "url": "/portfolio/img/pimp-art.0e7dee3b.jpg"
-  },
-  {
-    "revision": "565acd65eede718e0fdaf93d19f30351",
-    "url": "/portfolio/img/phone-alt.565acd65.svg"
   },
   {
     "revision": "2680c142e9dd43a01339b09bd4dfcbed",
@@ -216,6 +216,10 @@ self.__precacheManifest = [
     "url": "/portfolio/img/logo-delgaudiogourmet.650289df.jpg"
   },
   {
+    "revision": "86ca5625389edde6dd46",
+    "url": "/portfolio/css/chunk-2c4c6256.2e7a7e01.css"
+  },
+  {
     "revision": "658af8ae0b03dc824a0a",
     "url": "/portfolio/css/chunk-22f604ec.2dc1e213.css"
   },
@@ -236,11 +240,7 @@ self.__precacheManifest = [
     "url": "/portfolio/css/chunk-020624b1.ccffb56b.css"
   },
   {
-    "revision": "5e64c44e3f4150ca617d",
-    "url": "/portfolio/css/chunk-011dc3e2.4ad5fedc.css"
-  },
-  {
-    "revision": "377a6ce1913e4fff3b84",
-    "url": "/portfolio/css/app.24203c9e.css"
+    "revision": "1372f57443cd16f6f70a",
+    "url": "/portfolio/css/app.5445d31b.css"
   }
 ];
